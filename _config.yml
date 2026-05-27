@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL - Add your Google Scholar profile URL here
+  googlescholar    : "https://scholar.google.com/citations?user=-gOSruQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL - Add your ORCID URL here (e.g. https://orcid.org/0000-...)
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username - Add your LinkedIn username here (e.g. amin-saeidi)
+  linkedin         : "amin-saeidi-kelishami-12065b134"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
