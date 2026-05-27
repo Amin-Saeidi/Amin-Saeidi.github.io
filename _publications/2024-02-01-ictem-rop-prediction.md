@@ -6,7 +6,7 @@ permalink: /publication/2024-ictem-rop-prediction
 excerpt: 'Ensemble machine learning methods for predicting and optimizing rate of penetration in drilling operations, presented at ICTEM 2024.'
 date: 2024-02-01
 venue: 'International Conference on Technology and Energy Management (ICTEM 2024)'
-paperurl: ''
+# paperurl: ''
 citation: 'Amin Saeidi Kelishami, Arash Imami Khiyavi, Ali Fahim, Shahab Ayatollahi. "A Practical Approach with Ensemble-Driven Rate of Penetration Prediction and Optimization." <i>International Conference on Technology and Energy Management (ICTEM 2024)</i>.'
 ---
 

@@ -22,10 +22,10 @@ Research Interests
 
 News
 ======
+- **Nov 2025**: Awarded the **National Student-Entrepreneur Status (SNEE)** by Pépite oZer, Université Grenoble Alpes (French Ministry of Higher Education).
 - **Sep 2025**: Started M.Sc. (M2) in AI at Grenoble INP — thesis on generative models for microbial genomes.
 - **May 2025**: Paper accepted at CLEF 2025 — *MetaDetox at TextDetox CLEF 2025: Detoxification with Few-Chain Prompting*.
 - **May 2025**: Paper accepted at SemEval 2025 — *TMU at SemEval-2025 Task 11: Tackling Multi-Label Emotion Detection with Transfer Learning*.
-- **Sep 2024**: Awarded the **National Student-Entrepreneur Status (SNEE)** by Pépite oZer, Université Grenoble Alpes (French Ministry of Higher Education).
 - **Feb 2024**: Paper accepted at ICTEM 2024 — *A Practical Approach with Ensemble-Driven Rate of Penetration Prediction and Optimization*.
 
 Education
@@ -34,9 +34,9 @@ Education
 - **M.Sc. in Computer Engineering (Bioinformatics)**, Sharif University of Technology *(Sep 2021 – Jun 2024)*
 - **B.Sc. in Petroleum Engineering**, Minor in Computer Science, Sharif University of Technology *(Sep 2016 – Feb 2021)*
 
-Selected Skills
+<!-- Selected Skills
 ======
 **Programming:** Python · R · C/C++ · Julia  
 **ML & AI:** PyTorch · TensorFlow · Keras · scikit-learn  
 **Bioinformatics:** NGS analysis · GATK · Samtools · BWA · BEDTools · BLAST  
-**Tools:** Nextflow · Docker · Git · Linux (HPC environments)
+**Tools:** Nextflow · Docker · Git · Linux (HPC environments) -->

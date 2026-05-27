@@ -6,7 +6,7 @@ permalink: /publication/persian-rice-detection-deep-learning
 excerpt: 'An open-access study on detecting and classifying Persian rice varieties from cell phone images using deep learning.'
 date: 2022-01-01
 venue: 'Open Access Journal'
-paperurl: ''
+# paperurl: ''
 citation: 'Amin Saeidi Kelishami, Mahmood Saeedi Kelishami, Sajjad Saeedi Kelishami. "Cell Phone Image-Based Persian Rice Detection and Classification Using Deep Learning Techniques."'
 ---
 

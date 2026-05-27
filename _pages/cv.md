@@ -85,16 +85,15 @@ Awards & Honors
 
 Skills
 ======
-* **Programming Languages:** Python, R, C/C++, Julia
-* **Machine Learning & AI:** PyTorch, TensorFlow, Keras, scikit-learn
-* **Bioinformatics Tools:** NGS data analysis, BLAST, Cytoscape, BEDTools, GATK, Samtools, BWA
+* **Programming Languages:** Python, R, C/C++
+<!-- * **Machine Learning & AI:** PyTorch, TensorFlow, Keras, scikit-learn
+* **Bioinformatics Tools:** NGS data analysis, BLAST, Cytoscape, BEDTools, GATK, Samtools, BWA, MMSeq2 -->
 * **Data Management:** PostgreSQL, Elasticsearch
-* **Developer Tools:** Nextflow, Git, Docker, VS Code
-* **Document Preparation:** LaTeX
+* **Developer Tools:** Nextflow, Git, Docker
 * **Operating Systems:** Linux (WSL, server environments, HPCs)
 
 Languages
 ======
 * **Persian:** Native
-* **English:** Fluent — IELTS Academic: Overall 7/9 (L: 7.5, R: 8, W: 6, S: 7)
+* **English:** Fluent
 * **French:** A1
