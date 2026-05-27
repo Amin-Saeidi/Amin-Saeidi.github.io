@@ -18,7 +18,6 @@ Education
   * Supervisors: Dr. Clovis Galiez, Dr. François Enault
 
 * **M.Sc. in Computer Engineering** (Specialization: Bioinformatics), Sharif University of Technology, Tehran, Iran *(Sep 2021 – Jun 2024)*
-  <!-- * GPA: 18.09 / 20 -->
   * Thesis: *Discovering Rational Properties of Chemicals by Rationalization and Causal Inference*
   * Supervisor: Dr. Babak Khalaj
 
@@ -86,8 +85,6 @@ Awards & Honors
 Skills
 ======
 * **Programming Languages:** Python, R, C/C++
-<!-- * **Machine Learning & AI:** PyTorch, TensorFlow, Keras, scikit-learn
-* **Bioinformatics Tools:** NGS data analysis, BLAST, Cytoscape, BEDTools, GATK, Samtools, BWA, MMSeq2 -->
 * **Data Management:** PostgreSQL, Elasticsearch
 * **Developer Tools:** Nextflow, Git, Docker
 * **Operating Systems:** Linux (WSL, server environments, HPCs)
