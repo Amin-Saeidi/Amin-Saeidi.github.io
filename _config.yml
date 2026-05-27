@@ -22,10 +22,10 @@ repository               : "Amin-Saeidi/Amin-Saeidi.github.io"
 #                Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # Upload your photo to the /images/ folder and name it profile.png
+  avatar           : "Amin.jpg"
   name             : "Amin Saeidi Kelishami"
   pronouns         : "he/him"  
-  bio              : "Computational biology and bioinformatics researcher."
+  bio              : "Computational biology researcher."
   location         : "Grenoble, France"
   employer         : "Grenoble INP"
   uri              : # URL

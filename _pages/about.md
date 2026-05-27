@@ -9,7 +9,7 @@ redirect_from:
 
 I am a computational biology and bioinformatics researcher with a background in artificial intelligence, currently pursuing my **M.Sc. (M2) in Artificial Intelligence** at **Grenoble INP – Grenoble Alpes University** (France). My research focuses on **multi-omics analysis**, **representation learning**, and **interpretable machine learning** for biological discovery.
 
-My M.Sc. thesis investigates generative models for modeling microbial genomes, under the supervision of [Dr. Clovis Galiez](https://clovisgaliez.github.io/) and Dr. François Enault.
+My M.Sc. thesis investigates generative models for modeling microbial genomes, under the supervision of Dr. Clovis Galiez and Dr. François Enault.
 
 Previously, I completed my **M.Sc. in Computer Engineering (Bioinformatics)** at **Sharif University of Technology**, where my thesis developed interpretable graph neural networks for chemical property prediction using rationalization and causal inference, supervised by Dr. Babak Khalaj.
 
